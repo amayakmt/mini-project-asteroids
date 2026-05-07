@@ -30,4 +30,4 @@ class Asteroid(CircleShape):
 
             asteroid_new_1.velocity = vector1 * 1.2
             asteroid_new_2.velocity = vector2 * 1.2
-
+            

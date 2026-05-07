@@ -53,3 +53,4 @@ class Player(CircleShape):
             rotated_with_speed_vector = rotated_vector * PLAYER_SHOOT_SPEED
             shot.velocity += rotated_with_speed_vector
             self.shoot_timer = PLAYER_SHOOT_COOLDOWN_SECONDS
+            
