@@ -65,3 +65,7 @@ Colliding with an asteroid ends the game.
 ## Tuning
 
 All gameplay values (player speed, turn speed, shoot cooldown, asteroid spawn rate, etc.) live in `constants.py` and can be tweaked freely without touching the rest of the code.
+
+## Licence
+
+MIT
